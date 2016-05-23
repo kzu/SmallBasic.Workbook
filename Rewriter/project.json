@@ -1,0 +1,12 @@
+﻿{
+  "dependencies": {
+    "Mono.Cecil": "0.9.6.1",
+    "SmallBasic": "1.2.0"
+  },
+  "frameworks": {
+    "net45": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}

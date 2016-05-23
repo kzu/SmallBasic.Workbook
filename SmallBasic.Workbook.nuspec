@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SmallBasic.Workbook</id>
+    <version>1.2.0</version>
+    <title>SmallBasic for Xamarin Workbooks</title>
+    <authors>Microsoft</authors>
+    <owners>kzu</owners>
+    <projectUrl>http://www.smallbasic.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A package containing small changes to the core SmallBasic library that make it usable in Xamarin Workbooks, with graphics primitives, Turtle and more.</description>
+  </metadata>
+  <files>
+		<file src="out\SmallBasicLibrary.dll" target="lib\net45" />
+		<file src="out\SmallBasicLibrary.xml" target="lib\net45" />
+  </files>
+</package>
